@@ -1,2 +1,3 @@
-# meme-maker
-Build a Meme Maker
+# Meme Maker
+
+Meme Maker App built with Javascript and Canvas API.
